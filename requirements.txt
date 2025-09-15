@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+mailchimp-marketing
+python-dotenv
+gunicorn
